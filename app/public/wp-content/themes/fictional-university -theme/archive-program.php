@@ -13,16 +13,18 @@
 </div>
 
 <div class="container container--narrow page-section">
+
+	<ul class="link-list min-list">
+
 	<?php
 		while(have_posts()) {
 			the_post(); ?>
-			<li><a><?php the_title(); ?></a></li>
+			<li><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
 		<?php }
 		echo paginate_links();
 	?>
 
-	<hr class="section-break">
-	<p>Looking for past events recap? <a href="<?php echo site_url('/past-events'); ?>">Check out our past events archive</a>.</p>
+	</ul>
 
 </div>
 
