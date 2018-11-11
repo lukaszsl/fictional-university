@@ -3,7 +3,6 @@
 /*!40103 SET TIME_ZONE='+00:00' */;
 INSERT INTO `wp_postmeta` VALUES
 (1,2,"_wp_page_template","default"),
-(2,3,"_wp_page_template","default"),
 (3,5,"_edit_last","1"),
 (4,5,"_edit_lock","1539118759:1"),
 (7,7,"_edit_last","1"),
@@ -14,9 +13,6 @@ INSERT INTO `wp_postmeta` VALUES
 (14,13,"_edit_lock","1539807952:1"),
 (15,16,"_edit_last","1"),
 (16,16,"_edit_lock","1539294428:1"),
-(17,3,"_wp_trash_meta_status","draft"),
-(18,3,"_wp_trash_meta_time","1539291718"),
-(19,3,"_wp_desired_post_slug","privacy-policy"),
 (20,19,"_edit_last","1"),
 (21,19,"_edit_lock","1539520092:1"),
 (22,21,"_edit_last","1"),
@@ -144,7 +140,7 @@ INSERT INTO `wp_postmeta` VALUES
 (157,47,"_edit_last","1"),
 (158,47,"_edit_lock","1541451361:1"),
 (159,48,"_edit_last","1"),
-(160,48,"_edit_lock","1541622733:1"),
+(160,48,"_edit_lock","1541937669:1"),
 (161,49,"_edit_last","1"),
 (162,49,"_edit_lock","1541451206:1"),
 (163,52,"_edit_last","1"),
@@ -172,6 +168,12 @@ INSERT INTO `wp_postmeta` VALUES
 (185,61,"_edit_last","1"),
 (186,61,"_edit_lock","1541535444:1"),
 (187,62,"_edit_last","1"),
-(188,62,"_edit_lock","1541538147:1"),
+(188,62,"_edit_lock","1541938243:1"),
 (189,48,"related_programs","a:1:{i:0;s:2:\"60\";}"),
-(190,48,"_related_programs","field_5be200701f75a");
+(190,48,"_related_programs","field_5be200701f75a"),
+(191,64,"_edit_last","1"),
+(192,64,"_edit_lock","1541937730:1"),
+(193,65,"_edit_last","1"),
+(194,65,"_edit_lock","1541938289:1"),
+(195,65,"related_programs","a:1:{i:0;s:2:\"60\";}"),
+(196,65,"_related_programs","field_5be200701f75a");
