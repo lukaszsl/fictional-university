@@ -229,7 +229,7 @@ INSERT INTO `wp_postmeta` VALUES
 (246,78,"page_banner_background_image",""),
 (247,78,"_page_banner_background_image","field_5beb3fff7cd1b"),
 (248,79,"_edit_last","1"),
-(249,79,"_edit_lock","1542720600:1"),
+(249,79,"_edit_lock","1542925009:1"),
 (250,79,"page_banner_subtitle",""),
 (251,79,"_page_banner_subtitle","field_5beb3fd87cd1a"),
 (252,79,"page_banner_background_image",""),
