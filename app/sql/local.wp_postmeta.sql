@@ -138,7 +138,13 @@ INSERT INTO `wp_postmeta` VALUES
 (155,44,"_edit_last","1"),
 (156,44,"_edit_lock","1540726538:1"),
 (157,47,"_edit_last","1"),
+<<<<<<< HEAD
 (158,47,"_edit_lock","1543438484:1"),
+||||||| merged common ancestors
+(158,47,"_edit_lock","1541451361:1"),
+=======
+(158,47,"_edit_lock","1543354647:1"),
+>>>>>>> 857c9f59d507fa4b24e5789f88a36609d9638363
 (159,48,"_edit_last","1"),
 (160,48,"_edit_lock","1542718326:1"),
 (161,49,"_edit_last","1"),
