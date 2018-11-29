@@ -18,6 +18,7 @@
 				<?php echo $mapLocation['address']; ?>
 			</div>
 		<?php } ?>
+
 	</div>
 
 </div>
