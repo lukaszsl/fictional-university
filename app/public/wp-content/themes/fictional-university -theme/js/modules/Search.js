@@ -42,8 +42,14 @@ class Search {
 	}
 
 	getResults() {
-		this.resultsDiv.html("Imagine real search results here...");
-		this.isSpinnerVisible = false;
+		$.getJSON('http://fictional-university.local/wp-json/wp/v2/posts?search=' + this.searchField.val(), posts => {
+			this.resultsDiv.html(`
+				<h2 class="search-overlay__section-title">General Information</h2>
+				<ul class="link-list min-list">
+					${posts.map(post => `<li><a href="${post.link}">${post.title.rendered}</a></li>`).join('')}
+				</ul>
+			`);
+		});
 	}
 
 	keyPressDispacher(e) {
