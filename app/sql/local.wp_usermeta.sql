@@ -17,8 +17,8 @@ INSERT INTO `wp_usermeta` VALUES
 (13,1,"wp_user_level","10"),
 (14,1,"dismissed_wp_pointers","wp496_privacy"),
 (15,1,"show_welcome_panel","1"),
-(16,1,"session_tokens","a:1:{s:64:\"799d422dbd5fe34bdf4642b4cbdeb6f56d50ff45c374d2705edb5e69a35d954d\";a:4:{s:10:\"expiration\";i:1543924586;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:121:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36\";s:5:\"login\";i:1543751786;}}"),
-(17,1,"wp_dashboard_quick_press_last_post_id","84"),
+(16,1,"session_tokens","a:1:{s:64:\"f93c9b106dbaff6e80f0d6e1cf89f2bb600c9e9ab1d9b2c809ad182b473b430b\";a:4:{s:10:\"expiration\";i:1544649721;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:121:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36\";s:5:\"login\";i:1544476921;}}"),
+(17,1,"wp_dashboard_quick_press_last_post_id","86"),
 (18,1,"community-events-location","a:1:{s:2:\"ip\";s:12:\"192.168.95.0\";}"),
 (19,1,"managenav-menuscolumnshidden","a:5:{i:0;s:11:\"link-target\";i:1;s:11:\"css-classes\";i:2;s:3:\"xfn\";i:3;s:11:\"description\";i:4;s:15:\"title-attribute\";}"),
 (20,1,"metaboxhidden_nav-menus","a:1:{i:0;s:12:\"add-post_tag\";}"),
@@ -28,4 +28,6 @@ INSERT INTO `wp_usermeta` VALUES
 (24,1,"closedpostboxes_post","a:0:{}"),
 (25,1,"metaboxhidden_post","a:6:{i:0;s:13:\"trackbacksdiv\";i:1;s:10:\"postcustom\";i:2;s:16:\"commentstatusdiv\";i:3;s:11:\"commentsdiv\";i:4;s:7:\"slugdiv\";i:5;s:9:\"authordiv\";}"),
 (26,1,"closedpostboxes_dashboard","a:1:{i:0;s:19:\"dashboard_right_now\";}"),
-(27,1,"metaboxhidden_dashboard","a:0:{}");
+(27,1,"metaboxhidden_dashboard","a:0:{}"),
+(28,1,"closedpostboxes_campus","a:0:{}"),
+(29,1,"metaboxhidden_campus","a:4:{i:0;s:23:\"acf-group_5bd779fb834fc\";i:1;s:23:\"acf-group_5bfdaf86d24f2\";i:2;s:23:\"acf-group_5be200b429769\";i:3;s:7:\"slugdiv\";}");
