@@ -30,4 +30,6 @@ INSERT INTO `wp_usermeta` VALUES
 (26,1,"closedpostboxes_dashboard","a:1:{i:0;s:19:\"dashboard_right_now\";}"),
 (27,1,"metaboxhidden_dashboard","a:0:{}"),
 (28,1,"closedpostboxes_campus","a:0:{}"),
-(29,1,"metaboxhidden_campus","a:4:{i:0;s:23:\"acf-group_5bd779fb834fc\";i:1;s:23:\"acf-group_5bfdaf86d24f2\";i:2;s:23:\"acf-group_5be200b429769\";i:3;s:7:\"slugdiv\";}");
+(29,1,"metaboxhidden_campus","a:4:{i:0;s:23:\"acf-group_5bd779fb834fc\";i:1;s:23:\"acf-group_5bfdaf86d24f2\";i:2;s:23:\"acf-group_5be200b429769\";i:3;s:7:\"slugdiv\";}"),
+(30,1,"closedpostboxes_program","a:0:{}"),
+(31,1,"metaboxhidden_program","a:4:{i:0;s:23:\"acf-group_5bd779fb834fc\";i:1;s:23:\"acf-group_5bf4052239207\";i:2;s:23:\"acf-group_5be200b429769\";i:3;s:7:\"slugdiv\";}");
