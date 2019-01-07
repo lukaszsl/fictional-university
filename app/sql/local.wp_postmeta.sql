@@ -326,9 +326,11 @@ INSERT INTO `wp_postmeta` VALUES
 (345,100,"_page_banner_subtitle","field_5beb3fd87cd1a"),
 (346,100,"page_banner_background_image",""),
 (347,100,"_page_banner_background_image","field_5beb3fff7cd1b"),
-(348,101,"_edit_lock","1546465420:1"),
+(348,101,"_edit_lock","1546892550:1"),
 (349,101,"_edit_last","1"),
 (350,101,"page_banner_subtitle",""),
 (351,101,"_page_banner_subtitle","field_5beb3fd87cd1a"),
 (352,101,"page_banner_background_image",""),
-(353,101,"_page_banner_background_image","field_5beb3fff7cd1b");
+(353,101,"_page_banner_background_image","field_5beb3fff7cd1b"),
+(357,101,"_wp_old_slug","math-lecture-1__trashed"),
+(367,100,"_wp_old_slug","biology-lecture-4__trashed");
