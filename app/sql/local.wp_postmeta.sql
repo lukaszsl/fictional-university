@@ -333,4 +333,7 @@ INSERT INTO `wp_postmeta` VALUES
 (352,101,"page_banner_background_image",""),
 (353,101,"_page_banner_background_image","field_5beb3fff7cd1b"),
 (357,101,"_wp_old_slug","math-lecture-1__trashed"),
-(367,100,"_wp_old_slug","biology-lecture-4__trashed");
+(367,100,"_wp_old_slug","biology-lecture-4__trashed"),
+(368,107,"_wp_trash_meta_status","publish"),
+(369,107,"_wp_trash_meta_time","1547068451"),
+(370,107,"_wp_desired_post_slug","cats-love-math");
