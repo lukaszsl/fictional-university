@@ -17,8 +17,8 @@ INSERT INTO `wp_usermeta` VALUES
 (13,1,"wp_user_level","10"),
 (14,1,"dismissed_wp_pointers","wp496_privacy"),
 (15,1,"show_welcome_panel","1"),
-(16,1,"session_tokens","a:1:{s:64:\"be08a350b2817cd35f505bb8d0d59b984c90044d430a30c8def17f413a186b93\";a:4:{s:10:\"expiration\";i:1547238872;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\";s:5:\"login\";i:1547066072;}}"),
-(17,1,"wp_dashboard_quick_press_last_post_id","97"),
+(16,1,"session_tokens","a:3:{s:64:\"a371ad412feeede2ec496666cdc7ffc74285f69e7f6d5abec0db873cc7f4cb8e\";a:4:{s:10:\"expiration\";i:1547669456;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\";s:5:\"login\";i:1547496656;}s:64:\"4e296733d5a859165f1407700d2121b8c785ade7fbceb4c681dd6409d95986c9\";a:4:{s:10:\"expiration\";i:1547669468;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\";s:5:\"login\";i:1547496668;}s:64:\"6d44d5fcd4cb1e486f78c35b14b8069ec13399579f67296fe9dc7065fc946c0b\";a:4:{s:10:\"expiration\";i:1547670011;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\";s:5:\"login\";i:1547497211;}}"),
+(17,1,"wp_dashboard_quick_press_last_post_id","108"),
 (18,1,"community-events-location","a:1:{s:2:\"ip\";s:12:\"192.168.95.0\";}"),
 (19,1,"managenav-menuscolumnshidden","a:5:{i:0;s:11:\"link-target\";i:1;s:11:\"css-classes\";i:2;s:3:\"xfn\";i:3;s:11:\"description\";i:4;s:15:\"title-attribute\";}"),
 (20,1,"metaboxhidden_nav-menus","a:1:{i:0;s:12:\"add-post_tag\";}"),
@@ -67,4 +67,4 @@ INSERT INTO `wp_usermeta` VALUES
 (63,3,"wp_capabilities","a:1:{s:10:\"subscriber\";b:1;}"),
 (64,3,"wp_user_level","0"),
 (65,3,"default_password_nag",""),
-(69,3,"session_tokens","a:1:{s:64:\"faa2e37224ca53333a0e2289b0beff183974f189cb66b5fc1997a865e94f7b2c\";a:4:{s:10:\"expiration\";i:1546119147;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\";s:5:\"login\";i:1545946347;}}");
+(69,3,"session_tokens","a:1:{s:64:\"e44b13d1067e794206be38e830167a99e3be82c5f11f55bf8a02c42a0fd79ac7\";a:4:{s:10:\"expiration\";i:1547670034;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\";s:5:\"login\";i:1547497234;}}");
