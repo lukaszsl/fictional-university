@@ -394,4 +394,13 @@ INSERT INTO `wp_postmeta` VALUES
 (425,130,"page_banner_subtitle",""),
 (426,130,"_page_banner_subtitle","field_5beb3fd87cd1a"),
 (427,130,"page_banner_background_image",""),
-(428,130,"_page_banner_background_image","field_5beb3fff7cd1b");
+(428,130,"_page_banner_background_image","field_5beb3fff7cd1b"),
+(429,133,"liked_professor_id","12345"),
+(430,133,"_edit_lock","1548017775:1"),
+(431,134,"liked_professor_id","789"),
+(432,134,"_edit_lock","1548018388:1"),
+(433,135,"liked_professor_id","789"),
+(434,136,"liked_professor_id","64"),
+(435,136,"_edit_lock","1548018412:1"),
+(436,137,"liked_professor_id","68"),
+(437,137,"_edit_lock","1548018575:1");
