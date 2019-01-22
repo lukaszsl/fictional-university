@@ -17,7 +17,7 @@ INSERT INTO `wp_usermeta` VALUES
 (13,1,"wp_user_level","10"),
 (14,1,"dismissed_wp_pointers","wp496_privacy"),
 (15,1,"show_welcome_panel","1"),
-(16,1,"session_tokens","a:1:{s:64:\"e03673067a4f1cc190c7d3d5e554814dd28e4ca78ff3ac78116a394ff8b2904a\";a:4:{s:10:\"expiration\";i:1548189153;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\";s:5:\"login\";i:1548016353;}}"),
+(16,1,"session_tokens","a:1:{s:64:\"8e48dcac89dae07352deb64cacf9a3124df0e4d7ca7c977cf1b6817388b8e9e6\";a:4:{s:10:\"expiration\";i:1548362319;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\";s:5:\"login\";i:1548189519;}}"),
 (17,1,"wp_dashboard_quick_press_last_post_id","131"),
 (18,1,"community-events-location","a:1:{s:2:\"ip\";s:12:\"192.168.95.0\";}"),
 (19,1,"managenav-menuscolumnshidden","a:5:{i:0;s:11:\"link-target\";i:1;s:11:\"css-classes\";i:2;s:3:\"xfn\";i:3;s:11:\"description\";i:4;s:15:\"title-attribute\";}"),
@@ -67,4 +67,4 @@ INSERT INTO `wp_usermeta` VALUES
 (63,3,"wp_capabilities","a:1:{s:10:\"subscriber\";b:1;}"),
 (64,3,"wp_user_level","0"),
 (65,3,"default_password_nag",""),
-(69,3,"session_tokens","a:2:{s:64:\"e44b13d1067e794206be38e830167a99e3be82c5f11f55bf8a02c42a0fd79ac7\";a:4:{s:10:\"expiration\";i:1547670034;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\";s:5:\"login\";i:1547497234;}s:64:\"cd44270866c07c3390dd884fb9984609c4f70a3ee5a3dd476193636728dcdb6d\";a:4:{s:10:\"expiration\";i:1547756389;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\";s:5:\"login\";i:1547583589;}}");
+(69,3,"session_tokens","a:1:{s:64:\"acc87195551386c504ad3c444f62a25dcc546c3f74c6226db107b31420d606a0\";a:4:{s:10:\"expiration\";i:1548364159;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\";s:5:\"login\";i:1548191359;}}");

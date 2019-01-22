@@ -387,5 +387,4 @@ INSERT INTO `wp_postmeta` VALUES
 (418,127,"_edit_lock","1547678322:1"),
 (419,128,"_edit_lock","1547678511:1"),
 (420,128,"_edit_last","1"),
-(459,138,"liked_professor_id","68"),
-(460,139,"liked_professor_id","64");
+(474,144,"liked_professor_id","68");
