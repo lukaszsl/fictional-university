@@ -30,7 +30,7 @@ if (file_exists(dirname(__FILE__) . '/local.php')) {
 	// Live database settings
 	define( 'DB_NAME', 'kurtc024_universitydata' );
 	define( 'DB_USER', 'kurtc024_1' );
-	define( 'DB_PASSWORD', 'cobain69sg' );
+	define( 'DB_PASSWORD', 'Cobain69SG' );
 	define( 'DB_HOST', 'localhost' );
 }
 
